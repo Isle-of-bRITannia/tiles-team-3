@@ -16,3 +16,7 @@ const imgTile = (imgSrc) => {
 
 export const uh = await imgTile('./uh.png');
 export const fireGirl = await imgTile('./fireGirl.jpg');
+export const bowtie = await imgTile('./bowtie.jpg');
+export const chimp = await imgTile('./chimp.jpg');
+export const rainbowsuit = await imgTile('./rainbowsuit.jpg');
+export const lightblue = await imgTile('./lightblue.png');
